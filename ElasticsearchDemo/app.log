@@ -1,0 +1,47 @@
+2021-01-07 10:06:25,337 INFO com.solution.Elasticsearch.ElasticsearchApplicationTests [main] Starting ElasticsearchApplicationTests on LAPTOP-K90PN79I with PID 12444 (started by Shrikant in C:\Users\Shrikant\git\ElasticSearchApplication-Repository\Elasticsearch)
+2021-01-07 10:06:25,340 DEBUG com.solution.Elasticsearch.ElasticsearchApplicationTests [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-01-07 10:06:25,341 INFO com.solution.Elasticsearch.ElasticsearchApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-01-07 10:06:33,867 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-01-07 10:06:38,987 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-01-07 10:06:39,481 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-01-07 10:06:39,916 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.12.Final
+2021-01-07 10:06:40,598 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2021-01-07 10:06:41,135 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-01-07 10:06:43,219 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-07 10:06:48,529 INFO com.solution.Elasticsearch.ElasticsearchApplicationTests [main] Started ElasticsearchApplicationTests in 24.188 seconds (JVM running for 26.512)
+2021-01-07 10:06:48,980 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-01-07 10:06:49,017 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
+2021-01-07 10:08:22,126 INFO com.solution.Elasticsearch.ElasticsearchApplication [restartedMain] Starting ElasticsearchApplication on LAPTOP-K90PN79I with PID 4896 (C:\Users\Shrikant\git\ElasticSearchApplication-Repository\Elasticsearch\target\classes started by Shrikant in C:\Users\Shrikant\git\ElasticSearchApplication-Repository\Elasticsearch)
+2021-01-07 10:08:22,134 DEBUG com.solution.Elasticsearch.ElasticsearchApplication [restartedMain] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-01-07 10:08:22,135 INFO com.solution.Elasticsearch.ElasticsearchApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-07 10:08:30,658 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-01-07 10:08:30,659 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-01-07 10:08:31,467 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-01-07 10:08:31,910 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-01-07 10:08:33,575 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-01-07 10:08:33,720 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-01-07 10:08:34,062 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.12.Final
+2021-01-07 10:08:34,506 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2021-01-07 10:08:34,876 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-01-07 10:08:36,489 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-07 10:08:50,781 INFO com.solution.Elasticsearch.ElasticsearchApplication [restartedMain] Started ElasticsearchApplication in 30.292 seconds (JVM running for 32.266)
+2021-01-07 10:16:49,213 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-07 10:17:17,637 DEBUG com.solution.Elasticsearch.controller.ElastiscSearchController [http-nio-8080-exec-2] query data"Interstellar"
+2021-01-07 10:17:26,771 DEBUG com.solution.Elasticsearch.controller.ElastiscSearchController [http-nio-8080-exec-4] query data"Interstellar"
+2021-01-07 10:18:10,412 DEBUG com.solution.Elasticsearch.serviceimpl.ElastisService [http-nio-8080-exec-2] response
+2021-01-07 10:18:10,412 DEBUG com.solution.Elasticsearch.serviceimpl.ElastisService [http-nio-8080-exec-4] response
+2021-01-07 10:21:52,605 DEBUG com.solution.Elasticsearch.controller.ElastiscSearchController [http-nio-8080-exec-8] query data"Logan"
+2021-01-07 10:21:59,396 DEBUG com.solution.Elasticsearch.serviceimpl.ElastisService [http-nio-8080-exec-8] response
+2021-01-07 10:47:00,468 INFO com.solution.Elasticsearch.ElasticsearchApplicationTests [main] Starting ElasticsearchApplicationTests on LAPTOP-K90PN79I with PID 13384 (started by Shrikant in C:\Users\Shrikant\eclipse-workspace\ElasticsearchDemo)
+2021-01-07 10:47:00,518 DEBUG com.solution.Elasticsearch.ElasticsearchApplicationTests [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2021-01-07 10:47:00,518 INFO com.solution.Elasticsearch.ElasticsearchApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-01-07 10:47:04,228 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-01-07 10:47:07,579 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-01-07 10:47:08,363 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-01-07 10:47:08,958 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.12.Final
+2021-01-07 10:47:10,832 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2021-01-07 10:47:11,699 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-01-07 10:47:16,251 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-01-07 10:47:22,283 INFO com.solution.Elasticsearch.ElasticsearchApplicationTests [main] Started ElasticsearchApplicationTests in 22.838 seconds (JVM running for 25.144)
+2021-01-07 10:47:23,468 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown initiated...
+2021-01-07 10:47:23,496 INFO com.zaxxer.hikari.HikariDataSource [SpringContextShutdownHook] HikariPool-1 - Shutdown completed.
